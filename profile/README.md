@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="./LOGO FLASHBIO.png" width="250" alt="FlashBio Logo">
-</p>
-
 <h1 align="center">Welcome to Team FlashBio #31888 ⚡</h1>
 
 <p align="center">
