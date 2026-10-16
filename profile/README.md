@@ -1,5 +1,5 @@
 <p align="center">
-  <img src=".github/profile/LOGO FLASHBIO.png" width="250" alt="FlashBio Logo">
+  <img src="./profile/LOGO FLASHBIO.png" width="250" alt="FlashBio Logo">
 </p>
 
 <h1 align="center">Welcome to Team FlashBio #31888 ⚡</h1>
