@@ -22,7 +22,7 @@
 
 ### 🚀 Featured Project / Projeto em Destaque
 
-**[VV Generator](https://github.com/SeuUsuario/NomeDoRepositorio](https://github.com/FlashbioFTC/VV-Generator.git)** 
+**[VV Generator](https://github.com/FlashbioFTC/VV-Generator.git)** 
 An AI-powered Python add-in for Autodesk Fusion 360 that generates adaptive lightweight cut-out patterns on solid bodies. 
 *Status: Beta Testing.*
 
